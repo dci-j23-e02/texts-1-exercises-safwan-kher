@@ -3,8 +3,14 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Solution/CharExcercises" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/Solution/StringExcercises" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Solution/CharExcercises/Test/Resource" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Solution/CharExcercises/Test/src" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Solution/CharExcercises/main/Resource" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Solution/CharExcercises/main/src" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Solution/StringExcercises/Test/Resource" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Solution/StringExcercises/Test/src" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Solution/StringExcercises/main/Resource" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Solution/StringExcercises/main/src" isTestSource="false" generated="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
